@@ -13,7 +13,7 @@ public class even_days_in_a_month {
                 d = 31;
                 break;
             }
-            case 4,9,11:{
+            case 4,6,9,11:{
                 d = 30;
                 break;
             }
