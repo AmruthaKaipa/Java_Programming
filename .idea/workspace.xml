@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment="Program to print a greeting message" />
+    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment="random files">
+      <change afterPath="$PROJECT_DIR$/lcm_gcd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,9 +41,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Basic_Problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_Problems" />
+  <component name="RunManager" selected="Application.lcm_gcd">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Average" />
+      <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Large" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Large" />
+      <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_C" />
+      <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perfect" />
+      <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcm_gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcm_gcd" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,7 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basic_Problems" />
+        <item itemvalue="Application.lcm_gcd" />
+        <item itemvalue="Application.Perfect" />
+        <item itemvalue="Application.P_C" />
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.Large" />
       </list>
     </recent_temporary>
   </component>
@@ -58,6 +97,7 @@
       <updated>1643207347044</updated>
       <workItem from="1643207349612" duration="261000" />
       <workItem from="1643207876887" duration="340000" />
+      <workItem from="1643629148757" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="Printing Hello World">
       <created>1643208212247</created>
@@ -66,7 +106,70 @@
       <option name="project" value="LOCAL" />
       <updated>1643208212247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Subtract the Product and Sum of Digits of an Integer">
+      <created>1643359770114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643359770114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Input a number and print all the factors of that number (use loops).">
+      <created>1643360236682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643360236682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Take integer inputs till the user enters 0 and print the sum of all numbers.">
+      <created>1643362397412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643362397412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Take integer inputs till the user enters 0 and print the largest number from all.">
+      <created>1643362765546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643362765546</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Calculate Average Of N Numbers">
+      <created>1643379483181</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643379483181</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Find Ncr &amp; Npr">
+      <created>1643380120290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643380120290</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ignore msgs">
+      <created>1643380172357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643380172357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Program to check whether it is Perfect Number or not.">
+      <created>1643380860726</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643380860726</updated>
+    </task>
+    <task id="LOCAL-00010" summary="random files">
+      <created>1643629181381</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643629181381</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +188,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Printing Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printing Hello World" />
+    <MESSAGE value="Subtract the Product and Sum of Digits of an Integer" />
+    <MESSAGE value="Input a number and print all the factors of that number (use loops)." />
+    <MESSAGE value="Take integer inputs till the user enters 0 and print the sum of all numbers." />
+    <MESSAGE value="Take integer inputs till the user enters 0 and print the largest number from all." />
+    <MESSAGE value="Calculate Average Of N Numbers" />
+    <MESSAGE value="Find Ncr &amp; Npr" />
+    <MESSAGE value="ignore msgs" />
+    <MESSAGE value="Program to check whether it is Perfect Number or not." />
+    <MESSAGE value="random files" />
+    <option name="LAST_COMMIT_MESSAGE" value="random files" />
   </component>
 </project>
