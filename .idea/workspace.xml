@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment=" Write a program to count the number of even days he can go out in the month of August.">
+    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment="Write a function that returns all prime numbers between two given numbers.">
+      <change afterPath="$PROJECT_DIR$/m_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Methods" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,37 +43,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.positive_negative">
-    <configuration name="Perfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perfect" />
+  <component name="RunManager" selected="Application.m_8">
+    <configuration name="m_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m_4" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even_days_in_a_month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="even_days_in_a_month" />
+    <configuration name="m_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m_5" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lcm_gcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcm_gcd" />
+    <configuration name="m_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m_6" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="positive_negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="positive_negative" />
+    <configuration name="m_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m_7" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverse_string" />
+    <configuration name="m_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m_8" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.positive_negative" />
-        <item itemvalue="Application.reverse_string" />
-        <item itemvalue="Application.even_days_in_a_month" />
-        <item itemvalue="Application.lcm_gcd" />
-        <item itemvalue="Application.Perfect" />
+        <item itemvalue="Application.m_8" />
+        <item itemvalue="Application.m_7" />
+        <item itemvalue="Application.m_6" />
+        <item itemvalue="Application.m_5" />
+        <item itemvalue="Application.m_4" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,56 @@
       <option name="project" value="LOCAL" />
       <updated>1643637839179</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.">
+      <created>1643859161039</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643859161039</updated>
+    </task>
+    <task id="LOCAL-00018" summary="A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.">
+      <created>1643861654060</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643861654060</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.">
+      <created>1643861686786</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1643861686786</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:&#10;&#10; &#10;Marks        Grade &#10;91-100         AA &#10;81-90          AB &#10;71-80          BB &#10;61-70          BC &#10;51-60          CD &#10;41-50          DD &#10;&lt;=40          Fail">
+      <created>1643862709884</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643862709884</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Write a program to print the factorial of a number by defining a method named 'Factorial'.">
+      <created>1643868091439</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1643868091439</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).">
+      <created>1643868904088</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643868904088</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Write a function that returns all prime numbers between two given numbers.">
+      <created>1643870349662</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643870349662</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +294,13 @@
     <MESSAGE value="Reverse A String In Java" />
     <MESSAGE value="Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero." />
     <MESSAGE value=" Write a program to count the number of even days he can go out in the month of August." />
-    <option name="LAST_COMMIT_MESSAGE" value=" Write a program to count the number of even days he can go out in the month of August." />
+    <MESSAGE value="Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user." />
+    <MESSAGE value="A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote." />
+    <MESSAGE value="Write a program to print the circumference and area of a circle of radius entered by user by defining your own method." />
+    <MESSAGE value="Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:&#10;&#10; &#10;Marks        Grade &#10;91-100         AA &#10;81-90          AB &#10;71-80          BB &#10;61-70          BC &#10;51-60          CD &#10;41-50          DD &#10;&lt;=40          Fail" />
+    <MESSAGE value="Write a program to print the factorial of a number by defining a method named 'Factorial'." />
+    <MESSAGE value="Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number)." />
+    <MESSAGE value="Write a function that returns all prime numbers between two given numbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Write a function that returns all prime numbers between two given numbers." />
   </component>
 </project>
