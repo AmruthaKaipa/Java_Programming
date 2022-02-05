@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment="Write a function that returns all prime numbers between two given numbers.">
-      <change afterPath="$PROJECT_DIR$/m_8.java" afterDir="false" />
+    <list default="true" id="2b2947fb-7429-44c9-852f-7dfaafb0a48d" name="Changes" comment="ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +98,8 @@
       <workItem from="1643207349612" duration="261000" />
       <workItem from="1643207876887" duration="340000" />
       <workItem from="1643629148757" duration="5859000" />
+      <workItem from="1644076429070" duration="95000" />
+      <workItem from="1644076567048" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Printing Hello World">
       <created>1643208212247</created>
@@ -262,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643870349662</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Write a function that returns the sum of first n natural numbers.">
+      <created>1643871146221</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643871146221</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ignore">
+      <created>1643871162755</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643871162755</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +315,8 @@
     <MESSAGE value="Write a program to print the factorial of a number by defining a method named 'Factorial'." />
     <MESSAGE value="Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number)." />
     <MESSAGE value="Write a function that returns all prime numbers between two given numbers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Write a function that returns all prime numbers between two given numbers." />
+    <MESSAGE value="Write a function that returns the sum of first n natural numbers." />
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
 </project>
